@@ -1,13 +1,55 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.img{
+  background-position: center;
+  background-size: cover;background-repeat: no-repeat;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+.shadow-x{
+  text-shadow: 3px 3px black;
+}
+
+.shadow-x2{
+  text-shadow: 3px 3px #DFBAB1;
+}
+
+.shadow-x3{
+  text-shadow: 3px 3px white;
+}
+
+.shadow-b{
+  box-shadow: -8px 8px white;
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+}
+
+.shadow-b:hover{
+  box-shadow: none;
+}
+
+.transition-x{
+  transition: all 0.2s ease-in-out;
+}
+
+.ani{
+  animation: ani 50s linear infinite;
+}
+
+.main:hover .on-hover{
+  opacity: 1;
+}
+
+@keyframes ani {
+  0%{transform: rotateZ(0);}
+  100%{transform: rotateZ(360deg);}
 }
