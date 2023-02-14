@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rexshoes/static/css/main.4bed3a26.css",
+    "main.js": "/rexshoes/static/js/main.1673e80f.js",
+    "static/media/bg.png": "/rexshoes/static/media/bg.4446454c6633f3cb502b.png",
+    "static/media/pic3.jpg": "/rexshoes/static/media/pic3.767417bea17688d6d8ce.jpg",
+    "static/media/pic5.jpg": "/rexshoes/static/media/pic5.2ef064e4f062a1205a5f.jpg",
+    "static/media/pic4.jpg": "/rexshoes/static/media/pic4.fc5038d6b802118a0d97.jpg",
+    "static/media/pic2.jpg": "/rexshoes/static/media/pic2.fa8740002db173c06e7e.jpg",
+    "index.html": "/rexshoes/index.html",
+    "main.4bed3a26.css.map": "/rexshoes/static/css/main.4bed3a26.css.map",
+    "main.1673e80f.js.map": "/rexshoes/static/js/main.1673e80f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bed3a26.css",
+    "static/js/main.1673e80f.js"
+  ]
+}
