@@ -65,7 +65,7 @@ function App() {
       </div>
     </div>
     <div className="w-screen bg-custom1 text-5xl lg:text-7xl text-center flex items-center justify-center font-bold pb-36 pt-60">
-      <h1 className="italic pl-3 pr-9 py-6 rounded-3xl w-2/3 text-white border-4 border-black shadow-b">Use Code <span className="text-emerald-500 font-bold text-6xl lg:text-8xl">Rx16ew</span> To Get A <span className="text-red-600 font-bold text-6xl lg:text-8xl">50%</span> Off</h1>
+      <h1 className="italic pl-3 pr-9 py-6 rounded-3xl w-2/3 text-white border-4 border-black">Use Code <span className="text-emerald-500 font-bold text-6xl lg:text-8xl">Rx16ew</span> To Get A <span className="text-red-600 font-bold text-6xl lg:text-8xl">50%</span> Off</h1>
     </div>
     <div className="w-screen pt-48 bg-custom1 flex flex-col items-center justify-center text-center pb-12 text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-bold px-5">
       <h1>Your Feet Will Thank You</h1>
