@@ -27,7 +27,7 @@ function App() {
       <h1 className="text-black font-bold text-4xl my-10 shadow-x3">Best Shoes Of The Year</h1>
       <div className="w-screen min-h-screen bg-custom1 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 justify-items-center gap-10 px-10">
       <div style={{backgroundImage: `url(${Pic5})`}} className="img w-full h-full rounded-2xl relative main">
-      <div className="text-white shadow-x font-bold text-2xl w-full h-full flex flex-col items-center justify-center absolute bottom-0 p-5 bg-opacity-40 bg-black opacity-0 rounded-2xl on-hover transition-x">
+      <div className="text-white shadow-x font-bold text-2xl w-full h-full flex flex-col items-center justify-around absolute bottom-0 p-5 bg-opacity-40 bg-black opacity-0 rounded-2xl on-hover transition-x">
         <p>White Nike</p>
         <p>$100</p>
       </div>
