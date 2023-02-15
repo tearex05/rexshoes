@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rexshoes/static/css/main.5e522fa8.css",
-    "main.js": "/rexshoes/static/js/main.a3c319ce.js",
+    "main.css": "/rexshoes/static/css/main.aeffca85.css",
+    "main.js": "/rexshoes/static/js/main.c540647f.js",
     "static/media/bg.png": "/rexshoes/static/media/bg.4446454c6633f3cb502b.png",
     "static/media/pic6.jpg": "/rexshoes/static/media/pic6.5c2a23bce7ff6a508d5b.jpg",
     "static/media/pic8.jpg": "/rexshoes/static/media/pic8.54378e4849ec96d6bde7.jpg",
@@ -11,11 +11,11 @@
     "static/media/pic4.jpg": "/rexshoes/static/media/pic4.fc5038d6b802118a0d97.jpg",
     "static/media/pic2.jpg": "/rexshoes/static/media/pic2.fa8740002db173c06e7e.jpg",
     "index.html": "/rexshoes/index.html",
-    "main.5e522fa8.css.map": "/rexshoes/static/css/main.5e522fa8.css.map",
-    "main.a3c319ce.js.map": "/rexshoes/static/js/main.a3c319ce.js.map"
+    "main.aeffca85.css.map": "/rexshoes/static/css/main.aeffca85.css.map",
+    "main.c540647f.js.map": "/rexshoes/static/js/main.c540647f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e522fa8.css",
-    "static/js/main.a3c319ce.js"
+    "static/css/main.aeffca85.css",
+    "static/js/main.c540647f.js"
   ]
 }
