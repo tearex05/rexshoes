@@ -41,15 +41,23 @@ body{
   transition: all 0.2s ease-in-out;
 }
 
-.ani{
-  animation: ani 50s linear infinite;
+.transition-x2{
+  transition: all 0.5s cubic-bezier(1,-0.01, 0, 1.01) ;
 }
 
 .main:hover .on-hover{
   opacity: 1;
 }
 
-@keyframes ani {
-  0%{transform: rotateZ(0);}
-  100%{transform: rotateZ(360deg);}
+@media (max-width: 639px){
+  .custom-nav{
+    display: none;
+  }
+}
+
+@media (min-width: 640px){
+  .custom-nav{
+    display: fixed;
+    position: absolute;
+  }
 }
